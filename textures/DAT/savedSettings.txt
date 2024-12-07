@@ -1,0 +1,3 @@
+Graphics:  Medium
+Mouse Sensitivity:  Low
+Controller Sensitivity:  Medium
